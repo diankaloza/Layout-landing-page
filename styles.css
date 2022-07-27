@@ -7,7 +7,7 @@
   display: grid;
   grid-auto-flow: column;
   max-width: 1295px;
-  margin: 10px 0px;
+  margin: 0 auto;
   padding: 0 36px;
   font-size: 20px;
 
